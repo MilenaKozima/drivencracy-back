@@ -17,4 +17,3 @@ const db = mongoClient.db();
 
 const PORT = 5000;
 app.listen(PORT, () => console.log(`Server running at port ${PORT}`));
-
